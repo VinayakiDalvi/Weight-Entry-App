@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776514367370",
+    "project_id": "weightentryapp",
+    "storage_bucket": "weightentryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776514367370:android:04bf39b2e2d40b044ba273",
+        "android_client_info": {
+          "package_name": "com.example.weight_entry_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776514367370-d3v795n9hk0pp3lu2i0i04g7easv4u8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa38V6Wpz8NRjPhcpiW49Xdp9xbvtRiNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776514367370-d3v795n9hk0pp3lu2i0i04g7easv4u8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
